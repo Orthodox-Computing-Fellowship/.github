@@ -1,2 +1,1 @@
-# .github
-Public Github information.
+# ☦ St. Andrew's Orthodox Computing Fellowship ☦
