@@ -1,1 +1,1 @@
-# ☦ St. Andrew's Orthodox Computing Fellowship ☦
+### St. Andrew's Orthodox Computing Fellowship 
